@@ -1,0 +1,6 @@
+git config --global user.name"你想要的名字"
+git config --global user.email"你的邮箱"
+pwd   查看当前文档的路径
+ls    查看当前文档的内容
+master   表示这个仓库已经初始化了
+cat  查看文件的内容
